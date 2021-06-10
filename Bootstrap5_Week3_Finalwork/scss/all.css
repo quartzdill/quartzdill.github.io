@@ -5291,7 +5291,7 @@ fieldset:disabled .btn {
 
 .accordion-button:not(.collapsed) {
   color: #494846;
-  background-color: #fffcf0;
+  background-color: #fff;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.125);
           box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.125);
 }
